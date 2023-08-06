@@ -1,0 +1,24 @@
+{
+  "perfil": [
+    {
+      "nombre": "Andrea del Pilar Jaramillo Garzón",
+      "email": "andrepijg@gmail.com",
+      "id": "50300fca-0a24-453a-9ce1-f3578b174973"
+    },
+    {
+      "nombre": "Valentina Giraldo",
+      "email": "valentina.giraldojaramillo@colegiosanjosepereira.edu.co",
+      "id": "3632242b-b755-4013-a900-cd01af2c9250"
+    },
+    {
+      "nombre": "Alba Lorena López Ruiz",
+      "email": "albalore.lopez@gmail.com",
+      "id": "71087e81-6835-4719-871f-fcdc6100bd86"
+    },
+    {
+      "nombre": "Tatiana Martinez",
+      "email": "tmartinez@utp.edu.co",
+      "id": "ca03e017-1e85-4c6e-b110-a27dca552f7c"
+    }
+  ]
+}
